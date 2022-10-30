@@ -35,4 +35,9 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 - w panelu bocznym przy wyborze języka polskiego informacje wyświetlane są w języku angielskim i odwrotnie. Przy ustawionym języku polskim widnieje "English",a przy angielskim "Polski"
 - przy ustawionym języku na polski, niektóre elementy wyświetlają się w języku angielskim : na stronie głownej -> "Scouts Panel", w zakładce "Gracze" -> "Download CSV","Print","View Columns","Filter Tables", "Search"
 - nie działa przycisk lupki w polu "Search". Możliwość wyszukania danej frazy poprzez kliknięcie w enter
-- po najechaniu na "Scouts Panel" kursor zmienia się na poziomą kreskę wprowadzania danych. Po kliknięciu w "Scouts Panel" nie przekierowuje do panelu. 
+- po najechaniu na "Scouts Panel" kursor zmienia się na poziomą kreskę wprowadzania danych. Po kliknięciu w "Scouts Panel" nie przekierowuje do panelu
+- w zakładce gracze brakuje opcji "dodaj gracza"
+- przy włączeniu okienka "dodaj gracza" pole data urodzenia jest od razu wypełnione z aktualną datą
+- możliwość dodania gracza po wypełnieniu pól "Imie", "Nazwisko", "Głowna pozycja" spacją - nie wypełniając pozostałych pól
+- "Nie udało się dodać gracza" bez informacji dlaczego 
+- udało się dodać gracza z Imieniem "qwe123!@#" i Nazwiskiem " !QWE z datą urodzeenia 01.02.2023 oraz 31.05.2026
