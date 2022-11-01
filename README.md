@@ -46,12 +46,12 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 - przy włączeniu okienka "dodaj gracza" pole data urodzenia jest od razu wypełnione z aktualną datą;
 - możliwość dodania gracza po wypełnieniu pól "Imie", "Nazwisko", "Głowna pozycja" spacją - nie wypełniając pozostałych pól;
 - przy tworzeniu nowego gracza, po kliknięciu "Submit" wyświetla się komunikat: "Nie udało się dodać gracza" bez informacji dlaczego, bez podświetlenia które pola zostały błędnie wypełnione;
-- udało się dodać gracza z Imieniem "qwe123!@#" i Nazwiskiem "!QWE" z datą urodzeenia 01.02.2023 oraz 31.05.2026;
+- udało się dodać gracza z Imieniem "qwe123!@#" i Nazwiskiem "!QWE", udało się też zapisać Imie "1222333", Nazwisko "566777777555" ,z datą urodzeenia 01.02.2023 oraz 31.05.2026, telefon "kfjjf4", waga "0";"-8999", wzrost "0";"-90000000000888", Główna pozycja "-23456788";
 - w edycji użytkownika, po kliknięciu w przycisk "clear" pozostaje wypełnione pole "Imie", "Nazwisko", "Data urodzenia", "Dominująca noga", "Główna pozycja";
-- przy edycji gracza, po kliknięciu "Sybmit" wyświetla się komunikat " Nie udało się zaktualizować gracza" bez podświetlenia nieprawidłowo wypełnionych pól;
+- przy edycji gracza, po kliknięciu "Sybmit" wyświetla się komunikat "Nie udało się zaktualizować gracza" bez podświetlenia nieprawidłowo wypełnionych pól;
 - udało się dodać gracza z wagą "-590", ze wzrostem "000999999", poziomem rozgrywek "-90", pozycją alternatywną "-49", klubem "chbcdj%$$#";
 - w raporcie dla gracza "qwe123!@#" wiek jaki się wyświetla to "-3";
-- przy dodawwaniu meczu aplikacja umożliwia dodanie nazwy drużyny zawodnika " %$#", drużyny przeciwnej - "#$%", z datą "16-11-2022", czas gry "-10", kolor koszulki "100"; tutaj również nie działa przycisk "clear". Kliknięcie w przycisk powoduje, że nadal widoczna jest nazwa drużyny zawodnika, przeciwnika. Nadal pozostają również wypełnione pola "data", "kolor koszulki", "czas gry". Do tego przy ustawionym języku polskim wyświetla się "clear" i "submit" zamiast "wyczyść" i "zapisz";
+- przy dodawaniu meczu aplikacja umożliwia dodanie nazwy drużyny zawodnika " %$#", drużyny przeciwnej - "#$%", z datą "16-11-2022", czas gry "-10", kolor koszulki "100"; tutaj również nie działa przycisk "clear". Kliknięcie w przycisk powoduje, że nadal widoczna jest nazwa drużyny zawodnika, przeciwnika. Nadal pozostają również wypełnione pola "data", "kolor koszulki", "czas gry". Do tego przy ustawionym języku polskim wyświetla się "clear" i "submit" zamiast "wyczyść" i "zapisz";
 - przy kliknięciu w przycisk "rozpocznij mecz" wyświetla się boisko i ikonki pozwalające rozpocząć mecz, zatrzymać mecz, zmienić połowę, cofnąć? ( klikając przycisk nic się nie zmienia), wysłać raport. Jest również koszyczek, po naciśnięciu którego nic się nie dzieje. Jest błąd w funkcji połowa. Powinny być 2 i ewentualnie dogrywka. Jest akceptowana nawet liczba "12000000000000" i "-2000";
 - brak opisu górnych ikonek, przed kliknięciem nie do końca wiadomo co będzie się działo po kliknięciu;
 - przy edycji raportu w lewym górnym roku wyświetla się "save" zamiast "zapisz" przy ustawionym języku polskim;
@@ -78,7 +78,8 @@ Kolor koszulki: 100"
 - przy dodawaniu komentarza do podpunktów, wybierając którąś z dostępnych funkcji np. pogrubienie, podkreślenie - zmienia kolejność liter np. chcąc napisać "mecz" powstaje słowo "zcem";
 - będąc w zakładce "Raporty" po kliknięciu "+Dodaj Raport" przenosi do zakładki mecze;
 - po pobraniu raportu w kolumnie "Mecze" i "Raporty" wyświetlają się "[object Object],[object Object],[object Object],[object Object]";
-- dodać gracza można tylko ze strony głównej, korzystając z linku pomocnicznego "dodaj gracza", powinna być również taka możliwość z zakładki "Gracze".
+- dodać gracza można tylko ze strony głównej, korzystając z linku pomocnicznego "dodaj gracza", powinna być również taka możliwość z zakładki "Gracze";
+- interfejs aplikacji jest nieprzyjemny.
 
 ### Subtask 5
 
