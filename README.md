@@ -1,8 +1,12 @@
 # challenge_portfolio_Edyta
+
 ## TASK 1
-### Subtask 2
+
+### Subtask 1
+
 10 punktów :) 
-#### Subtask 3
+
+### Subtask 3
 
 Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. W pracy zdarzało mi się testować aplikacje webowe "na produkcji". Dzięki temu zainteresowałam się tematem. Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu o tym myślałam i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
 
@@ -10,7 +14,7 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 
 ##### Edyta 
 
-## Subtask 4
+### Subtask 4
 
 1. Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty. O funkcjonalnościach piszę niżej.
 
@@ -76,6 +80,6 @@ Kolor koszulki: 100"
 - po pobraniu raportu w kolumnie "Mecze" i "Raporty" wyświetlają się "[object Object],[object Object],[object Object],[object Object]";
 - dodać gracza można tylko ze strony głównej, korzystając z linku pomocnicznego "dodaj gracza", powinna być również taka możliwość z zakładki "Gracze".
 
-##Subtask 5
+### Subtask 5
 
 Utworzyłam profil i dołączyłam do grupy w Jirze :) 
