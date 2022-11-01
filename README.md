@@ -70,7 +70,7 @@ Kolor koszulki: 100"
 - II. MENTALNOŚĆ - tutaj również nieprecyzyjny opis + brak kropki na końcu zdania;
 - pod opisem jest pole do dodania komentarza "Enter some text" przy wybranym języku polskim;
 - III. PODSUMOWANIE - brak znaku zapytania na końcu;
-- od opisem jest pole do dodania komentarza "Enter some text" przy wybranym języku polskim;
+- pod opisem jest pole do dodania komentarza "Enter some text" przy wybranym języku polskim;
 - brak zakładek "Mecze", "Raporty" w głownym panelu. Są widoczne dopiero po wejściu w edycję gracza
 - przy dodawaniu meczu (przy ustawionym języku polskim) są pola po angielsku: "Web match", "General";
 - przy dodawaniu meczu jest wypełnione automatycznie pole z dzisiejszą datą. Nie edytowałam pola i przy wciśnięciu "Submit" wyświetla się komunikat aby wypełnić to pole - mimo, że jest wypełnione;
