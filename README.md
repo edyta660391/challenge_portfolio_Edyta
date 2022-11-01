@@ -18,6 +18,8 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 
 1. Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty. O funkcjonalnościach piszę niżej.
 
+Aplikację uruchomiłam na urządzeniu: MacBookAir10,1; wersja oprogramowania: MacOS Monterey 12.2.1; przeglądarka: Safari.
+
 2. Funkcjonalności:
 
 - logowanie do aplikacji;
