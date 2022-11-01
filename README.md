@@ -4,33 +4,34 @@
 10 punktów :) 
 #### Subtask 3
 
-Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu zaczęłam interesować się tym tematem i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
+Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. W pracy zdarzało mi się testować aplikacje webowe "na produkcji". Dzięki temu zainteresowałam się tematem. Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu o tym myślałam i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
 
-Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suchej teorii, przydałoby się również trochę praktyki - dlatego między innymi tu jestem. 
+Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suchej teorii, przydałoby się również trochę praktyki - dlatego między innymi tu jestem. Na pewno też udział w projekcie pozwoli poznać mi nawiązać nowe kontakty :)
 
 ##### Edyta 
 
 ## Subtask 4
 
-* Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty.
+* Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty. O funkcjonalnościach piszę niżej.
 
 * Funkcjonalności:
 
-- logowanie do aplikacji
-- wylogowanie z aplikacji
-- dodanie nowego gracza
-- dodanie nowego raportu 
-- zmiana języka
-- wyszukiwanie graczy
-- pobieranie pliku w formacie csv
-- drukowanie
-- filtrowanie 
-- dodawanie meczów/ edycja
-- tworzenie raportów/ edycja
+- logowanie do aplikacji;
+- wylogowanie z aplikacji;
+- dodanie nowego gracza/edycja;
+- dodanie nowego raportu;
+- zmiana języka;
+- wyszukiwanie graczy;
+- pobieranie pliku w formacie csv;
+- drukowanie raportów;
+- filtrowanie;
+- dodawanie meczów/ edycja;
+- tworzenie raportów/ edycja.
 
-* Interfejs aplikacji jest bardzo nieprzyjemny, nieintuicyjny.
+* Interfejs aplikacji jest bardzo nieintuicyjny.
 
 * Błędy :
+
 - logo na środku strony, zamiast w lewym górnym rogu
 - "ilość meczy" -> powinno być "ilość meczów"
 - nieintuicyjny interfejs
@@ -51,6 +52,7 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 - przy dodawwaniu meczu aplikacja umożliwia dodanie nazwy drużyny zawodnika " %$#", drużyny przeciwnej - "#$%", z datą "16-11-2022", czas gry "-10", kolor koszulki "100"
 - tutaj również nie działa przycisk "clear". Kliknięcie w przycisk powoduje, że nadal widoczna jest nazwa drużyny zawodnika, przeciwnika. Nadal pozostają również wypełnione pola "data", "kolor koszulki", "czas gry". Do tego przy ustawionym języku polskim wyświetla się "clear" i "submit" zamiast "wyczyść" i "zapisz"
 - przy kliknięciu w przycisk " rozpocznij mecz" wyświetla się boisko i ikonki pozwalające rozpocząć mecz, zatrzymać mecz, zmienić połowę, cofnąć? ( klikając przycisk nic się nie zmienia), wysłać raport. Jest również koszyczek, po naciśnięciu którego nic się nie dzieje. Jest błąd w funkcji połowa. Powinny być 2 i ewentualnie dogrywka. Jest akceptowana też nawet liczba "12000000000000" i "-2000"
+- brak opisu górnych ikonek, przed kliknięciem nie do końca wiadomo co będzie się działo po kliknięciu
 - przy edycji raportu w lewym górnym roku wyświetla się "save" zamias "zapisz" przy ustawionym języku polskim.
 - Dane meczu:
 "%$# vs #$%
@@ -68,5 +70,10 @@ Kolor koszulki: 100"
 - III. PODSUMOWANIE - brak znaku zapytania na końcu
 - od opisem jest pole do dodania komentarza "Enter some text" przy wybranym języku polskim
 - brak zakładek "Mecze", "Raporty" w głownym panelu. Są widoczne dopiero po wejściu w edycję gracza
-- 
-- 
+- przy dodawaniu meczu (przy ustawionym języku polskim) są pola po angielsku: "Web match", "General"
+- przy dodawaniu meczu jest wypełnione automatycznie pole z dzisiejszą datą. Nie edytowałam pola i przy wciśnięciu "Submit" wyświetla się komunikat aby wypełnić to pole - mimo, że jest wypełnione. 
+- w utworzonym raporcie, klikając w link meczu wyświetla się strona z błędem "404 - Page Not Found"
+- przy dodawaniu komentarza do podpunktów, wybierając którąś z dostępnych funkcji np. pogrubienie, podkreślenie - zmienia kolejność liter np. chcąc napisać "mecz" powstaje słowo "zcem"
+- będąc w zakładce "Raporty" po kliknięciu "+Dodaj Raport" przenosi do zakładki mecze.
+- po pobraniu raportu w kolumnie "Mecze" i "Raporty" wyświetlają się "[object Object],[object Object],[object Object],[object Object]"
+- dodać gracza można tylko ze strony głównej, korzystając z linku pomocnicznego "dodaj gracza", powinna być również taka możliwość z zakładki "Gracze".
