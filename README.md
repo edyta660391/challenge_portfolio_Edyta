@@ -86,3 +86,26 @@ Kolor koszulki: 100"
 ### Subtask 5
 
 Utworzyłam profil i dołączyłam do grupy w Jirze :) 
+
+
+## TASK 2
+
+[[https://drive.google.com/drive/folders/1d70nAwkZflf0LE3LhkISrp0RaWcEtXjZ?usp=share_link](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=sharing)](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=share_link)
+
+### Subtask 1 
+
+https://docs.google.com/spreadsheets/d/1L8VHX_Oax4xpdypKAVVo96CeOWiHQl01/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+
+#### Subtask 2 
+
+https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+
+##### Subtask 3
+
+##### Po co piszemy test case’y?
+
+Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności w ramach danej aplikacji. Czym więcej dobrych przypadków testowych- tym lepiej. Dzięki temu nie pominiemy ważnych funkcjonalności podczas testowania. Po przejściu przez wszystkie przypadki testowe, możemy stworzyć z nich raporty z wykonanych testów. Pisanie przypadków testowych pomaga również uporządkować pracę. W przypadku rozbudowanej aplikacji jest wiele funkcjonalności do zweryfikowania i bez przypadków testowych możemy się pogubić, powtarzać niepotrzebnie wcześniej wykonane kroki. Test case'y są również bardzo pomocne dla osób bez doświadczenia, dla osób które nie znają aplikacji, ponieważ pozwalają na zapoznanie się z daną aplikacją. Przypadki testowe można również wykorzystać w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. Są również pomocne w przypadku konieczności wykonywania retestów i testów regresyjnych. Będąc przy testach akceptacyjnych, przypadki testowe przydają się do wprowadzenia automatyzacji testów. 
+
+###### Subtask 4
+
+https://docs.google.com/spreadsheets/d/1ZSJ13Idu7_jbhJk_n_AZDxfU_wxJWnXv/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
