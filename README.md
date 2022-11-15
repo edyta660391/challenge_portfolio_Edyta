@@ -109,3 +109,29 @@ Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności 
 ###### Subtask 4
 
 https://docs.google.com/spreadsheets/d/1ZSJ13Idu7_jbhJk_n_AZDxfU_wxJWnXv/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+
+## TASK 3 
+
+### Subtask 1
+
+https://docs.google.com/document/d/10y-tki3Yc_We8FDzdB9Ga5c7VnFvSILq/edit?usp=sharing&ouid=117512314362310181270&rtpof=true&sd=true
+
+
+#### Subtask 2 
+
+https://docs.google.com/spreadsheets/d/1e_K7J8zxTyjAj58gIWcIpoUD4rI094B6/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+
+https://docs.google.com/spreadsheets/d/1P4pjpBDTZQsC0o24DI03N1t_eKpEcGlI/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+
+
+#### Subtask 3 
+
+https://drive.google.com/file/d/1V2HByGCGo3UNeTr8_cCu6Pcbj3NLjxAm/view?usp=share_link
+
+
+#### Subtask 4 
+
+https://docs.google.com/document/d/1MaXYm1s3Fepox4qKDagmdWiVLOQeYKML/edit?usp=sharing&ouid=117512314362310181270&rtpof=true&sd=true
+
+
+8. Testy eksploracyjne tour: Uważam, że jest to bardzo przydatna metoda. Pozwala poznać aplikację nie trzymając się tylko stworzonych przypadków testowych. Dzięki stosowaniu metod tour możemy znaleźć o wiele więcej błędów, które moglibyśmy przeoczyć trzymając się test case'ów. Dlatego poza realizacją przypadków testowych, warto poświęcić godzinę i poklikać po aplikacji, stosując różne rodzaje "rajdów" :) Jest większe prawdopodobieństwo, że unikniemy oddania aplikacji na produkcję, która będzie posiadać rażące błędy. Mamy pewność, że aplikacja jest dobrej jakości. Finalnie przenosi się to na zadowolenie użytkownia. 
