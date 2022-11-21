@@ -91,7 +91,7 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 ## TASK 2
 
-[link] (https://drive.google.com/drive/folders/1d70nAwkZflf0LE3LhkISrp0RaWcEtXjZ?usp=share_link](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=sharing)](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=share_link)) .
+[link](https://drive.google.com/drive/folders/1d70nAwkZflf0LE3LhkISrp0RaWcEtXjZ?usp=share_link](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=sharing)](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=share_link))
 
 [link](https://tinyurl.com/3mzjdbnz)
 
@@ -103,7 +103,7 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 #### Subtask 2 
 
-[link] (https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true).
+[Subtask2](https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
 ##### Subtask 3
 
