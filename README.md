@@ -99,7 +99,7 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 #### Subtask 2 
 
-https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true
+[link] (https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true).
 
 ##### Subtask 3
 
