@@ -95,6 +95,8 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 [link] (https://tinyurl.com/3mzjdbnz).
 
+[this tutorial](https://www.example.com) 
+
 ### Subtask 1 
 
 [https://docs.google.com/spreadsheets/d/1L8VHX_Oax4xpdypKAVVo96CeOWiHQl01/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true]
