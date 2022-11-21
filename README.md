@@ -93,7 +93,7 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 [link] (https://drive.google.com/drive/folders/1d70nAwkZflf0LE3LhkISrp0RaWcEtXjZ?usp=share_link](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=sharing)](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=share_link)) .
 
-[link] (https://tinyurl.com/3mzjdbnz)
+[link] (https://tinyurl.com/3mzjdbnz).
 
 ### Subtask 1 
 
