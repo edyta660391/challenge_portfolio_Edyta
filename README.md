@@ -141,7 +141,7 @@ Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności 
 8. Testy eksploracyjne tour: Uważam, że jest to bardzo przydatna metoda. Pozwala poznać aplikację nie trzymając się tylko stworzonych przypadków testowych. Dzięki stosowaniu metod tour możemy znaleźć o wiele więcej błędów, które moglibyśmy przeoczyć trzymając się test case'ów. Dlatego poza realizacją przypadków testowych, warto poświęcić godzinę i poklikać po aplikacji, stosując różne rodzaje "rajdów" :) Jest większe prawdopodobieństwo, że unikniemy oddania aplikacji na produkcję, która będzie posiadać rażące błędy. Mamy pewność, że aplikacja jest dobrej jakości. Finalnie przenosi się to na zadowolenie użytkownia. 
 
 
-##TASK 4
+## TASK 4
 
 ### Subtask 1 
 
@@ -155,21 +155,21 @@ Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności 
 
 ## **Subtask 3 - Do czego służy ta aplikacja?**
 
-##### 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+#### 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 Focusly to aplikacja, która ma na celu pomóc nam zredukować stres poprzez medytację, ćwiczenia oddechu i psychoedukację. Pozwala również słuchać muzykę relaksacyjną i dźwięki natury. Powyższe wiąże się również z polepszeniem jakości snu i ogólnego samopoczucia. Aplikacja umożliwia też pracę nad relacjami i emocjami i budowania zdrowych nawyków. Umożliwia wypełnienie ankiety, po czym wyświetlają się spersonalizowane treści. W aplikacji jest możliwość wybrania celu i wyzwania wraz z ustawieniem przypomnień o codziennej praktyce. 
 
 
-##### 2. Kto ma być użytkownikiem końcowym aplikacji?
+#### 2. Kto ma być użytkownikiem końcowym aplikacji?
 
 Końcowym użytkownikiem może być każda osoba, która zmaga się z depresją, chciałaby poprawić swoje samopoczucie, popracować nad swoim rozwojem duchowym. W aplikacji znajdziemy wiele bezpłatnych materiałów. Jednakże, jeśli chcemy korzystać ze wszystkich dostępnych materiałów, należy wykupić subskrypcję. 
 
 
-##### 3. Czy według Ciebie aplikacja jest user friendly? 
+#### 3. Czy według Ciebie aplikacja jest user friendly? 
 
 Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i łatwo się po niej poruszać. Jest intuicyjna. 
 
-##### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+#### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
 
 - Ikonkę „Profil” przeniosłabym do dolnej belki lub wyżej, do prawego górnego rogu nad „Cześć”.
 - Można dodać weryfikację dwuetapową.
@@ -177,7 +177,7 @@ Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i
 - Po odsłuchaniu nagrania, mogłoby rozpaczać się kolejne nagranie z playlisty zamiast powrotu do listy nagrań.
 - Mogłaby powstać zakładka, w której można sprawdzić jakie programy się ukończyło oprócz informacji o czasie spędzonym na medytacji. 
 
-##### 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+#### 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
 Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urządzenie, tylko uruchamiam ją w przeglądarce. Natomiast aplikację natywną muszę pobrać na urządzenie. Aplikacja natywną budowana jest na konkretne, określone platformy czy urządzenia. Do uruchomienia aplikacji webowej potrzebujemy połączenia z internetem. Aplikację natywną możemy uruchomić bez internetu, jednak bez aktualizacji treści. 
 
