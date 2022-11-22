@@ -7,7 +7,7 @@
 10 punktów :) 
 
 
-### Subtask 3
+### **Subtask 3**
 
 Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. W pracy zdarzało mi się testować aplikacje webowe "na produkcji". Dzięki temu zainteresowałam się tematem. Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu o tym myślałam i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
 
@@ -15,7 +15,7 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 
 ##### Edyta 
 
-### Subtask 4
+### **Subtask 4**
 
 1. Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty. O funkcjonalnościach piszę niżej.
 
@@ -84,55 +84,55 @@ Kolor koszulki: 100"
 - po pobraniu raportu w kolumnie "Mecze" i "Raporty" wyświetlają się "[object Object],[object Object],[object Object],[object Object]";
 - dodać gracza można tylko ze strony głównej, korzystając z linku pomocnicznego "dodaj gracza", powinna być również taka możliwość z zakładki "Gracze".
 
-### Subtask 5
+### **Subtask 5**
 
 Utworzyłam profil i dołączyłam do grupy w Jirze :) 
 
 
-## TASK 2
+## **TASK 2**
 
 [link](https://drive.google.com/drive/folders/1d70nAwkZflf0LE3LhkISrp0RaWcEtXjZ?usp=share_link](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=sharing)](https://drive.google.com/drive/folders/1-Ip2iEYpc06U6Bcf_xJW7KcLGV5YCdaN?usp=share_link))
 
 
 
-### Subtask 1 
+### **Subtask 1**
 
 [link](https://docs.google.com/spreadsheets/d/1L8VHX_Oax4xpdypKAVVo96CeOWiHQl01/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true])
 
-#### Subtask 2 
+#### **Subtask 2**
 
 [link](https://docs.google.com/spreadsheets/d/12WZgnENQNRZsqzPfuduiCYGvoIX2zDEb/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
-##### Subtask 3
+##### **Subtask 3**
 
 ##### Po co piszemy test case’y?
 
 Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności w ramach danej aplikacji. Czym więcej dobrych przypadków testowych- tym lepiej. Dzięki temu nie pominiemy ważnych funkcjonalności podczas testowania. Po przejściu przez wszystkie przypadki testowe, możemy stworzyć z nich raporty z wykonanych testów. Pisanie przypadków testowych pomaga również uporządkować pracę. W przypadku rozbudowanej aplikacji jest wiele funkcjonalności do zweryfikowania i bez przypadków testowych możemy się pogubić, powtarzać niepotrzebnie wcześniej wykonane kroki. Test case'y są również bardzo pomocne dla osób bez doświadczenia, dla osób które nie znają aplikacji, ponieważ pozwalają na zapoznanie się z daną aplikacją. Przypadki testowe można również wykorzystać w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. Są również pomocne w przypadku konieczności wykonywania retestów i testów regresyjnych. Będąc przy testach akceptacyjnych, przypadki testowe przydają się do wprowadzenia automatyzacji testów. 
 
-###### Subtask 4
+###### **Subtask 4**
 
 [link](https://docs.google.com/spreadsheets/d/1ZSJ13Idu7_jbhJk_n_AZDxfU_wxJWnXv/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
-## TASK 3 
+## **TASK 3**
 
-### Subtask 1
+### **Subtask 1**
 
 [link](https://docs.google.com/document/d/10y-tki3Yc_We8FDzdB9Ga5c7VnFvSILq/edit?usp=sharing&ouid=117512314362310181270&rtpof=true&sd=true)
 
 
-#### Subtask 2 
+#### **Subtask 2**
 
 [link 1](https://docs.google.com/spreadsheets/d/1e_K7J8zxTyjAj58gIWcIpoUD4rI094B6/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
 [link 2](https://docs.google.com/spreadsheets/d/1P4pjpBDTZQsC0o24DI03N1t_eKpEcGlI/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
 
-#### Subtask 3 
+#### **Subtask 3**
 
 [link](https://drive.google.com/file/d/1V2HByGCGo3UNeTr8_cCu6Pcbj3NLjxAm/view?usp=share_link)
 
 
-#### Subtask 4 
+#### **Subtask 4**
 
 [link](https://docs.google.com/document/d/1MaXYm1s3Fepox4qKDagmdWiVLOQeYKML/edit?usp=sharing&ouid=117512314362310181270&rtpof=true&sd=true)
 
@@ -141,35 +141,34 @@ Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności 
 8. Testy eksploracyjne tour: Uważam, że jest to bardzo przydatna metoda. Pozwala poznać aplikację nie trzymając się tylko stworzonych przypadków testowych. Dzięki stosowaniu metod tour możemy znaleźć o wiele więcej błędów, które moglibyśmy przeoczyć trzymając się test case'ów. Dlatego poza realizacją przypadków testowych, warto poświęcić godzinę i poklikać po aplikacji, stosując różne rodzaje "rajdów" :) Jest większe prawdopodobieństwo, że unikniemy oddania aplikacji na produkcję, która będzie posiadać rażące błędy. Mamy pewność, że aplikacja jest dobrej jakości. Finalnie przenosi się to na zadowolenie użytkownia. 
 
 
-## TASK 4
+## **TASK 4**
 
-### Subtask 1 
+### **Subtask 1**
 
 [Link](https://drive.google.com/drive/folders/10b9fdEhaou8fL1VaqaXgN2yani8m7k8k?usp=share_link)
 
-### Subtask 2 
+### **Subtask 2**
 
 [Raport błędów Focusly](https://docs.google.com/spreadsheets/d/1lKs94iHzQndJ0tmnjKEpxL4OKKjNQXUR/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
-#### Subtask 3 
 
-## **Subtask 3 - Do czego służy ta aplikacja?**
+### **Subtask 3 - Do czego służy ta aplikacja?**
 
-#### 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+#### **1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
 
 Focusly to aplikacja, która ma na celu pomóc nam zredukować stres poprzez medytację, ćwiczenia oddechu i psychoedukację. Pozwala również słuchać muzykę relaksacyjną i dźwięki natury. Powyższe wiąże się również z polepszeniem jakości snu i ogólnego samopoczucia. Aplikacja umożliwia też pracę nad relacjami i emocjami i budowania zdrowych nawyków. Umożliwia wypełnienie ankiety, po czym wyświetlają się spersonalizowane treści. W aplikacji jest możliwość wybrania celu i wyzwania wraz z ustawieniem przypomnień o codziennej praktyce. 
 
 
-#### 2. Kto ma być użytkownikiem końcowym aplikacji?
+#### **2. Kto ma być użytkownikiem końcowym aplikacji?**
 
 Końcowym użytkownikiem może być każda osoba, która zmaga się z depresją, chciałaby poprawić swoje samopoczucie, popracować nad swoim rozwojem duchowym. W aplikacji znajdziemy wiele bezpłatnych materiałów. Jednakże, jeśli chcemy korzystać ze wszystkich dostępnych materiałów, należy wykupić subskrypcję. 
 
 
-#### 3. Czy według Ciebie aplikacja jest user friendly? 
+#### **3. Czy według Ciebie aplikacja jest user friendly?** 
 
 Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i łatwo się po niej poruszać. Jest intuicyjna. 
 
-#### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+#### **4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?**
 
 - Ikonkę „Profil” przeniosłabym do dolnej belki lub wyżej, do prawego górnego rogu nad „Cześć”.
 - Można dodać weryfikację dwuetapową.
@@ -177,7 +176,10 @@ Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i
 - Po odsłuchaniu nagrania, mogłoby rozpaczać się kolejne nagranie z playlisty zamiast powrotu do listy nagrań.
 - Mogłaby powstać zakładka, w której można sprawdzić jakie programy się ukończyło oprócz informacji o czasie spędzonym na medytacji. 
 
-#### 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+#### **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
 
 Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urządzenie, tylko uruchamiam ją w przeglądarce. Natomiast aplikację natywną muszę pobrać na urządzenie. Aplikacja natywną budowana jest na konkretne, określone platformy czy urządzenia. Do uruchomienia aplikacji webowej potrzebujemy połączenia z internetem. Aplikację natywną możemy uruchomić bez internetu, jednak bez aktualizacji treści. 
 
+### **Subtask 4**
+
+[Jira](https://qa768.atlassian.net/jira/software/projects/QAC/boards/1/backlog?selectedIssue=QAC-26)
