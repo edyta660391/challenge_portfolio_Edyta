@@ -1,8 +1,8 @@
-# *challenge_portfolio_Edyta
+# **challenge_portfolio_Edyta**
 
-## **TASK 1
+## **TASK 1**
 
-### **Subtask 1
+### **Subtask 1**
 
 10 punktów :) 
 
