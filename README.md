@@ -19,14 +19,14 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 
 ### **Subtask 4**
 
-##### __*1. Na czym polega ta aplikacja? Do czego służy?*__
+__*1. Na czym polega ta aplikacja? Do czego służy?*__
 
 Aplikacja pozwala zarządzać graczami, meczami oraz umożliwia tworzenie raportów. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. 
 
 Aplikację uruchomiłam na urządzeniu: MacBookAir10,1; wersja oprogramowania: MacOS Monterey 12.2.1; przeglądarka: Safari.
 Sprawdziłam również działanie aplikacji w przeglądarce Opera oraz jak wyświetla się strona na urządzeniach: iPhone SE, iPhone XR, iPhone 12 Pro, Pixel 5, Samsung Galaxy s8+, Samsung Galaxy s20 Ultra, iPad Air, iPad Mini, Surface Pro 7, Surface Duo, Galaxy Fold, Samsung Galaxy A51, Nest Hub Max - na wszystkich powyższych rozdzielczościach aplikacja uruchamia się bez zarzutu.
 
-*2. Funkcjonalności:*
+__*2. Funkcjonalności:*__
 
 - logowanie do aplikacji;
 - wylogowanie z aplikacji;
@@ -40,7 +40,7 @@ Sprawdziłam również działanie aplikacji w przeglądarce Opera oraz jak wyśw
 - dodawanie meczów/ edycja;
 - tworzenie raportów/ edycja.
 
-3. Błędy/uwagi:
+__*3. Błędy/uwagi:*__
 
 - Interfejs aplikacji jest nieprzyjemny dla oka, nieintuicyjny;
 - logo znajduje się na środku strony, zamiast w lewym górnym rogu;
@@ -109,7 +109,7 @@ Utworzyłam profil i dołączyłam do grupy w Jirze :)
 
 ##### **Subtask 3**
 
-##### Po co piszemy test case’y?
+##### __*Po co piszemy test case’y?*__
 
 Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności w ramach danej aplikacji. Czym więcej dobrych przypadków testowych- tym lepiej. Dzięki temu nie pominiemy ważnych funkcjonalności podczas testowania. Po przejściu przez wszystkie przypadki testowe, możemy stworzyć z nich raporty z wykonanych testów. Pisanie przypadków testowych pomaga również uporządkować pracę. W przypadku rozbudowanej aplikacji jest wiele funkcjonalności do zweryfikowania i bez przypadków testowych możemy się pogubić, powtarzać niepotrzebnie wcześniej wykonane kroki. Test case'y są również bardzo pomocne dla osób bez doświadczenia, dla osób które nie znają aplikacji, ponieważ pozwalają na zapoznanie się z daną aplikacją. Przypadki testowe można również wykorzystać w kontekście testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. Są również pomocne w przypadku konieczności wykonywania retestów i testów regresyjnych. Będąc przy testach akceptacyjnych, przypadki testowe przydają się do wprowadzenia automatyzacji testów. 
 
@@ -142,7 +142,7 @@ Przypadki testowe piszemy, aby udokumentować różne funkcje/ funkcjonalności 
 
 
 
-8. Testy eksploracyjne tour: Uważam, że jest to bardzo przydatna metoda. Pozwala poznać aplikację nie trzymając się tylko stworzonych przypadków testowych. Dzięki stosowaniu metod tour możemy znaleźć o wiele więcej błędów, które moglibyśmy przeoczyć trzymając się test case'ów. Dlatego poza realizacją przypadków testowych, warto poświęcić godzinę i poklikać po aplikacji, stosując różne rodzaje "rajdów" :) Jest większe prawdopodobieństwo, że unikniemy oddania aplikacji na produkcję, która będzie posiadać rażące błędy. Mamy pewność, że aplikacja jest dobrej jakości. Finalnie przenosi się to na zadowolenie użytkownia. 
+__*8. Testy eksploracyjne tour:*__ Uważam, że jest to bardzo przydatna metoda. Pozwala poznać aplikację nie trzymając się tylko stworzonych przypadków testowych. Dzięki stosowaniu metod tour możemy znaleźć o wiele więcej błędów, które moglibyśmy przeoczyć trzymając się test case'ów. Dlatego poza realizacją przypadków testowych, warto poświęcić godzinę i poklikać po aplikacji, stosując różne rodzaje "rajdów" :) Jest większe prawdopodobieństwo, że unikniemy oddania aplikacji na produkcję, która będzie posiadać rażące błędy. Mamy pewność, że aplikacja jest dobrej jakości. Finalnie przenosi się to na zadowolenie użytkownia. 
 
 
 ## **TASK 4**
