@@ -19,7 +19,7 @@ Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suche
 
 ### **Subtask 4**
 
-*1. Na czym polega ta aplikacja? Do czego służy?*
+##### __*1. Na czym polega ta aplikacja? Do czego służy?*__
 
 Aplikacja pozwala zarządzać graczami, meczami oraz umożliwia tworzenie raportów. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. 
 
