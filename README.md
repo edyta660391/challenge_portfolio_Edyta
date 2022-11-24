@@ -9,20 +9,24 @@
 
 ### **Subtask 3**
 
-Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. W pracy zdarzało mi się testować aplikacje webowe "na produkcji". Dzięki temu zainteresowałam się tematem. Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu o tym myślałam i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
+Cześć ! Nazywam się Edyta. Obecnie pracuję w firmie telekomunikacyjnej jako st.konsultant ds. reklamacji i obsł. kl. W pracy zdarzało mi się testować aplikacje webowe "na produkcji". Dzięki temu zainteresowałam się tematem. 
 
-Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suchej teorii, przydałoby się również trochę praktyki - dlatego między innymi tu jestem. Jeszcze długa droga przede mną, ale jak to mówią - małymi kroczkami do przodu 🙂
+Wzięłam udział w projekcie, ponieważ chciałabym przebranżowić się na testera oprogramowania. Już od jakiegoś czasu o tym myślałam i w końcu odważyłam się zrobić pierwszy krok ! Nie ukrywam, że z teorią zapoznałam się trochę wcześniej. 
 
-##### Edyta 🙂
+Wierzę, że udział w projekcie pozwoli mi wejść do świata IT. Oprócz suchej teorii, przydałoby się również trochę praktyki - dlatego między innymi tu jestem. Jeszcze długa droga przede mną, ale jak to mówią - małymi kroczkami do przodu. 🙂
+
+##### **Edyta** 🙂
 
 ### **Subtask 4**
 
-1. Aplikacja scouts-test.futbolkolektyw jest wersją testową aplikacji, w której możemy poćwiczyć swoje umiejętności. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Umożliwia zarządzanie graczami, meczami i pozwala tworzyć raporty. O funkcjonalnościach piszę niżej.
+*1. Na czym polega ta aplikacja? Do czego służy?*
+
+Aplikacja pozwala zarządzać graczami, meczami oraz umożliwia tworzenie raportów. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. 
 
 Aplikację uruchomiłam na urządzeniu: MacBookAir10,1; wersja oprogramowania: MacOS Monterey 12.2.1; przeglądarka: Safari.
 Sprawdziłam również działanie aplikacji w przeglądarce Opera oraz jak wyświetla się strona na urządzeniach: iPhone SE, iPhone XR, iPhone 12 Pro, Pixel 5, Samsung Galaxy s8+, Samsung Galaxy s20 Ultra, iPad Air, iPad Mini, Surface Pro 7, Surface Duo, Galaxy Fold, Samsung Galaxy A51, Nest Hub Max - na wszystkich powyższych rozdzielczościach aplikacja uruchamia się bez zarzutu.
 
-2. Funkcjonalności:
+*2. Funkcjonalności:*
 
 - logowanie do aplikacji;
 - wylogowanie z aplikacji;
