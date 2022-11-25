@@ -156,23 +156,23 @@ __*8. Testy eksploracyjne tour:*__ Uważam, że jest to bardzo przydatna metoda.
 [Raport błędów Focusly](https://docs.google.com/spreadsheets/d/1lKs94iHzQndJ0tmnjKEpxL4OKKjNQXUR/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
 
 
-### **Subtask 3 - Do czego służy ta aplikacja?**
+### **Subtask 3** - __*Do czego służy ta aplikacja?*__
 
-#### **1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
+#### __*1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?*__
 
 Focusly to aplikacja, która ma na celu pomóc nam zredukować stres poprzez medytację, ćwiczenia oddechu i psychoedukację. Pozwala również słuchać muzykę relaksacyjną i dźwięki natury. Powyższe wiąże się również z polepszeniem jakości snu i ogólnego samopoczucia. Aplikacja umożliwia też pracę nad relacjami i emocjami i budowania zdrowych nawyków. Umożliwia wypełnienie ankiety, po czym wyświetlają się spersonalizowane treści. W aplikacji jest możliwość wybrania celu i wyzwania wraz z ustawieniem przypomnień o codziennej praktyce. 
 
 
-#### **2. Kto ma być użytkownikiem końcowym aplikacji?**
+#### __*2. Kto ma być użytkownikiem końcowym aplikacji?*__
 
 Końcowym użytkownikiem może być każda osoba, która zmaga się z depresją, chciałaby poprawić swoje samopoczucie, popracować nad swoim rozwojem duchowym. W aplikacji znajdziemy wiele bezpłatnych materiałów. Jednakże, jeśli chcemy korzystać ze wszystkich dostępnych materiałów, należy wykupić subskrypcję. 
 
 
-#### **3. Czy według Ciebie aplikacja jest user friendly?** 
+#### __*3. Czy według Ciebie aplikacja jest user friendly?*__ 
 
 Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i łatwo się po niej poruszać. Jest intuicyjna. 
 
-#### **4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?**
+#### __*4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*__
 
 - Ikonkę „Profil” przeniosłabym do dolnej belki lub wyżej, do prawego górnego rogu nad „Cześć”.
 - Można dodać weryfikację dwuetapową.
@@ -180,7 +180,7 @@ Moim zdaniem aplikacja jest przyjazna dla użytkownika. Ma przyjemny interfejs i
 - Po odsłuchaniu nagrania, mogłoby rozpaczać się kolejne nagranie z playlisty zamiast powrotu do listy nagrań.
 - Mogłaby powstać zakładka, w której można sprawdzić jakie programy się ukończyło oprócz informacji o czasie spędzonym na medytacji. 
 
-#### **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
+#### __*5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*__
 
 Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urządzenie, tylko uruchamiam ją w przeglądarce. Natomiast aplikację natywną muszę pobrać na urządzenie. Aplikacja natywną budowana jest na konkretne, określone platformy czy urządzenia. Do uruchomienia aplikacji webowej potrzebujemy połączenia z internetem. Aplikację natywną możemy uruchomić bez internetu, jednak bez aktualizacji treści. 
 
