@@ -189,7 +189,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 [Jira](https://qa768.atlassian.net/jira/software/projects/QAC/boards/1/backlog?selectedIssue=QAC-26)
 
 
-[![Watch the video](https://youtu.be/T42akSOFoMY?t=6)](https://youtu.be/T42akSOFoMY)
+[![Watch the video](<iframe width="950" height="534" src="https://www.youtube.com/embed/T42akSOFoMY" title="What is a Test Case and Why is it Important?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://youtu.be/T42akSOFoMY)
 
 
 
