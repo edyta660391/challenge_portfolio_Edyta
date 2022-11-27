@@ -335,6 +335,9 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 
 
+https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.quickmeme.com%2Fp%2F3w4iby&psig=AOvVaw00ZG6_NE2bfK-afB6mGC7k&ust=1669654511058000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDnjvLpzvsCFQAAAAAdAAAAABAE![image](https://user-images.githubusercontent.com/116006116/204149184-cd4ecfc3-d0c1-49eb-9062-349eb301176e.png)
+
+
 
 
 
