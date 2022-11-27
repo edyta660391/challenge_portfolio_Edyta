@@ -194,11 +194,44 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 ### **Subtask 3**
 
-__*Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname*__
+__*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*__
 
-**SELECT * FROM ’actors’ ORDER BY surname;**
+**SELECT * FROM 'actors' ORDER BY surname;**
 
 ![image](https://user-images.githubusercontent.com/116006116/204144740-34776e48-4a0f-4608-993d-c3876df34648.png)
+
+
+__*2. Wyświetl film, który powstał w 2019 roku.*__
+
+**SELECT * FROM 'movies' WHERE year_of_production = 2019;**
+
+\![image](https://user-images.githubusercontent.com/116006116/204144981-684f9890-7437-4a23-8534-5a1f5e5a9cff.png)
+
+
+__*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*__
+
+**SELECT * FROM 'movies' WHERE year_of_production BETWEEN ('1990') and ('1999');**
+
+![image](https://user-images.githubusercontent.com/116006116/204145147-4be8344e-1bbe-446a-8bd2-2028e9bf2524.png)
+
+
+__*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.*__
+
+**SELECT tittle,price FROM 'movies' WHERE price < '7';**
+
+
+![image](https://user-images.githubusercontent.com/116006116/204145359-d98f41c8-8c01-4aae-bd2f-5cbc7207d26c.png)
+
+
+__*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*__
+
+**SELECT * FROM 'actors' WHERE actor_id >= ’4’ AND actor_id <= '7';**
+
+![image](https://user-images.githubusercontent.com/116006116/204145779-018c4629-c823-45fc-a9db-634b4d3dfcb9.png)
+
+
+
+
 
 
 
