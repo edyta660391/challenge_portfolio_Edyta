@@ -207,7 +207,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 
 
-### __*2. Wyświetl film, który powstał w 2019 roku.*__
+#### __*2. Wyświetl film, który powstał w 2019 roku.*__
 
 
 
@@ -219,7 +219,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 
 
-__*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*__
+#### __*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*__
 
 
 
@@ -231,7 +231,7 @@ __*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*_
 
 
 
-__*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.*__
+#### __*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.*__
 
 
 
@@ -244,7 +244,7 @@ __*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.*__
 
 
 
-__*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*__
+#### __*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*__
 
 
 
@@ -256,7 +256,7 @@ __*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomi�
 
 
 
-__*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*__
+#### __*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*__
 
 
 
@@ -269,7 +269,7 @@ __*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.*__
 
 
 
-__*7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*__
+#### __*7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*__
 
 
 
@@ -282,7 +282,7 @@ __*7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*__
 
 
 
-__*8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.*__
+#### __*8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.*__
 
 
 
@@ -307,7 +307,7 @@ __*8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zacz
 
 
 
-__*9. Wyświetl dane klienta, który nie ma podanego adresu email.*__
+#### __*9. Wyświetl dane klienta, który nie ma podanego adresu email.*__
 
 
 
@@ -319,7 +319,7 @@ __*9. Wyświetl dane klienta, który nie ma podanego adresu email.*__
 
 
 
-__*10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.*__
+#### __*10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.*__
 
 
 
