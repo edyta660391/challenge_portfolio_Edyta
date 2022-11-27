@@ -189,9 +189,16 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 [Jira](https://qa768.atlassian.net/jira/software/projects/QAC/boards/1/backlog?selectedIssue=QAC-26)
 
 
-[![Watch the video](<iframe width="950" height="534" src="https://www.youtube.com/embed/T42akSOFoMY" title="What is a Test Case and Why is it Important?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://youtu.be/T42akSOFoMY)
+## **TASK 5**
 
 
+### **Subtask 3**
+
+__*Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname*__
+
+**SELECT * FROM ’actors’ ORDER BY surname;**
+
+![image](https://user-images.githubusercontent.com/116006116/204144740-34776e48-4a0f-4608-993d-c3876df34648.png)
 
 
 
