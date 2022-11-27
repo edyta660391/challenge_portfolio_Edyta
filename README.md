@@ -201,9 +201,10 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 #### __*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*__
 
 
-'''sql
+```sql
     SELECT * FROM 'actors' ORDER BY surname;
-'''
+```
+
 
 
 
