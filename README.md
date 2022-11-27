@@ -195,7 +195,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 ### **Subtask 3**
 
 
-__*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*__
+#### __*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*__
 
 
 
@@ -207,7 +207,7 @@ __*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie
 
 
 
-__*2. Wyświetl film, który powstał w 2019 roku.*__
+#### __*2. Wyświetl film, który powstał w 2019 roku.*__
 
 
 
