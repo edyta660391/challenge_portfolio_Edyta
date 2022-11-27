@@ -202,7 +202,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 
 '''sql
-👉    SELECT * FROM 'actors' ORDER BY surname;
+    SELECT * FROM 'actors' ORDER BY surname;
 '''
 
 
