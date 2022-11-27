@@ -205,7 +205,7 @@ __*2. Wyświetl film, który powstał w 2019 roku.*__
 
 **SELECT * FROM 'movies' WHERE year_of_production = 2019;**
 
-\![image](https://user-images.githubusercontent.com/116006116/204144981-684f9890-7437-4a23-8534-5a1f5e5a9cff.png)
+![image](https://user-images.githubusercontent.com/116006116/204144981-684f9890-7437-4a23-8534-5a1f5e5a9cff.png)
 
 
 __*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*__
