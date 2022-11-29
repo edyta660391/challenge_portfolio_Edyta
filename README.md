@@ -193,6 +193,13 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 
 ![image](https://user-images.githubusercontent.com/116006116/204149444-f5793055-99a6-4caa-951e-c7bfc53cda36.png)
 
+### **Subtask 1**
+
+'''Kurs podstaw SQL-a'''
+
+### **Subtask 2**
+
+Konfiguracja środowiska i wgranie bazy danych.
 
 
 ### **Subtask 3**
@@ -205,6 +212,12 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
   👉   SELECT * FROM 'actors' ORDER BY surname;
 ```
 
+### __*Operatory arytmetyczne*___
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/116006116/204607699-2ca22236-0147-4ea7-8e22-0b2b4f4d28f5.png">
+
+
+### __*Operatory porównania*__
 
 
 
