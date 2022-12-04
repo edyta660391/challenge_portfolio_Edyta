@@ -512,4 +512,4 @@ Konfiguracja środowiska i wgranie bazy danych.
 https://github.com/edyta660391/Edyta_Leszczynska/blob/main/README.md
 
 
-![image](https://user-images.githubusercontent.com/116006116/205510782-df03aa7d-626f-4a1e-b7bc-47eaf5911e8d.png)
+![image](https://user-images.githubusercontent.com/116006116/205510782-df03aa7d-626f-4a1e-b7bc-47eaf5911e8d.png) 
