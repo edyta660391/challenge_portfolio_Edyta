@@ -369,8 +369,18 @@ Konfiguracja środowiska i wgranie bazy danych.
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/116006116/204149279-a47b66e8-5899-449a-83d0-acd84dfa2c2e.png">
 
 
+## **TASK 6**
 
+### **Subtask 1**
 
+#### __*11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈*__
+
+```sql
+👉   UPDATE customers SET surname= 'Miler' WHERE surname= 'Muler';
+
+```
+
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/116006116/205508872-4062e0d3-1bf6-4273-83f3-5a4b37f7f91a.png">
 
 
 
