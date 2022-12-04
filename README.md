@@ -502,4 +502,16 @@ Konfiguracja środowiska i wgranie bazy danych.
 ![image](https://user-images.githubusercontent.com/116006116/205510048-e2c8b83a-36e3-410b-85ca-df79334566ed.png)
 
 
+### **Subtask 2**
+
+![image](https://user-images.githubusercontent.com/116006116/205510511-f57ac626-947a-4ab9-835a-90c5f3fa9d52.png)
+
+
+### **Subtask 3**
+
+https://github.com/edyta660391/Edyta_Leszczynska/blob/main/README.md
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fthe-end-gif-8%2F&psig=AOvVaw0ToBFxaawdRhSUjkPQo4jH&ust=1670267709266000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCo353W4PsCFQAAAAAdAAAAABAE![image](https://user-images.githubusercontent.com/116006116/205510653-4c93f2a2-43ec-4df1-9c08-bd70cd19f7a0.png)
+
 
