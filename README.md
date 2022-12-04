@@ -189,7 +189,7 @@ Podczas testowania aplikacji internetowej nie muszę pobierać aplikacji na urz�
 [Jira](https://qa768.atlassian.net/jira/software/projects/QAC/boards/1/backlog?selectedIssue=QAC-26)
 
 
-## [task5] **TASK 5**
+## **TASK 5**
 
 ![image](https://user-images.githubusercontent.com/116006116/204149444-f5793055-99a6-4caa-951e-c7bfc53cda36.png)
 
