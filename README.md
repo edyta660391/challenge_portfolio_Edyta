@@ -512,6 +512,4 @@ Konfiguracja środowiska i wgranie bazy danych.
 https://github.com/edyta660391/Edyta_Leszczynska/blob/main/README.md
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fthe-end-gif-8%2F&psig=AOvVaw0ToBFxaawdRhSUjkPQo4jH&ust=1670267709266000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCo353W4PsCFQAAAAAdAAAAABAE![image](https://user-images.githubusercontent.com/116006116/205510653-4c93f2a2-43ec-4df1-9c08-bd70cd19f7a0.png)
-
-
+![image](https://user-images.githubusercontent.com/116006116/205510782-df03aa7d-626f-4a1e-b7bc-47eaf5911e8d.png)
